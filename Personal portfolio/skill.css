@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bgimage {
+    height:100vh;
+    background: url('r.jpg');
+    background-size:cover;
+    position:relative;
+}
+.imageskillPage {
+    width: 20%;
+    height: 50;
+}
